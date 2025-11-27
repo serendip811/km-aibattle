@@ -75,6 +75,7 @@ function aggregateByUser(characters) {
             user_id,
             total_rating: totalRating,
             characters: chars.map(char => ({
+                id: char.id,
                 nickname: char.nickname,
                 element: char.element,
                 power: char.power,
