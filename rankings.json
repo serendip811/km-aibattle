@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27T23:23:15.469Z",
+  "updated_at": "2025-11-27T23:32:03.720Z",
   "total_users": 104,
   "rankings": [
     {
@@ -139,28 +139,28 @@
     },
     {
       "user_id": "ee6356e6-4693-463d-a417-b18a674206da",
-      "total_rating": 3378,
+      "total_rating": 3377,
       "characters": [
         {
           "id": "f0067fc8-77aa-4714-b301-171664b43b43",
           "nickname": "에드워드",
           "element": "내비게이션",
           "power": 380,
-          "rating": 1157
+          "rating": 1169
         },
         {
           "id": "4a62b21a-de0b-4b90-981e-14680f93c329",
           "nickname": "케이드",
           "element": "데이터분석",
           "power": 380,
-          "rating": 1111
+          "rating": 1109
         },
         {
           "id": "70d113a4-24e7-4b91-8a58-ce5e2fca4b91",
           "nickname": "쿠뤡",
           "element": "데이터분석",
           "power": 380,
-          "rating": 1110
+          "rating": 1099
         }
       ]
     },
@@ -220,14 +220,14 @@
     },
     {
       "user_id": "eaea7ab1-4125-4b00-b332-29a9eb3b7099",
-      "total_rating": 3349,
+      "total_rating": 3335,
       "characters": [
         {
           "id": "8996a568-1e17-4807-9529-9fb39d17b023",
           "nickname": "에드워드",
           "element": "택시서비스",
           "power": 380,
-          "rating": 1001
+          "rating": 987
         },
         {
           "id": "c129dbf6-390c-463f-b472-51b9bdc6bad1",
@@ -1056,6 +1056,33 @@
       ]
     },
     {
+      "user_id": "65c66708-0251-449f-8204-44f922256223",
+      "total_rating": 3043,
+      "characters": [
+        {
+          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
+          "nickname": "쌀숭이",
+          "element": "데이터분석",
+          "power": 420,
+          "rating": 1007
+        },
+        {
+          "id": "9238996e-173a-4677-9e50-705949fc61a9",
+          "nickname": "신창섭",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1111
+        },
+        {
+          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
+          "nickname": "사탄의 혈육",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 925
+        }
+      ]
+    },
+    {
       "user_id": "c8f410c1-e954-450c-a99e-ce4f5e11894c",
       "total_rating": 3041,
       "characters": [
@@ -1214,33 +1241,6 @@
           "element": "테크",
           "power": 250,
           "rating": 944
-        }
-      ]
-    },
-    {
-      "user_id": "65c66708-0251-449f-8204-44f922256223",
-      "total_rating": 2991,
-      "characters": [
-        {
-          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
-          "nickname": "쌀숭이",
-          "element": "데이터분석",
-          "power": 420,
-          "rating": 1006
-        },
-        {
-          "id": "9238996e-173a-4677-9e50-705949fc61a9",
-          "nickname": "신창섭",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1097
-        },
-        {
-          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
-          "nickname": "사탄의 혈육",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 888
         }
       ]
     },
@@ -2139,19 +2139,6 @@
       ]
     },
     {
-      "user_id": "4e1e24ec-5eb7-43a8-8fe8-c81fdf17ea03",
-      "total_rating": 1079,
-      "characters": [
-        {
-          "id": "be677d96-03ff-473f-a709-f21ebe801f39",
-          "nickname": "평가보상전문가",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 1079
-        }
-      ]
-    },
-    {
       "user_id": "beafc7ce-a57d-4909-a36c-653659d58dd7",
       "total_rating": 1079,
       "characters": [
@@ -2226,6 +2213,19 @@
           "element": "대리운전",
           "power": 380,
           "rating": 1047
+        }
+      ]
+    },
+    {
+      "user_id": "4e1e24ec-5eb7-43a8-8fe8-c81fdf17ea03",
+      "total_rating": 1042,
+      "characters": [
+        {
+          "id": "be677d96-03ff-473f-a709-f21ebe801f39",
+          "nickname": "평가보상전문가",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1042
         }
       ]
     },
