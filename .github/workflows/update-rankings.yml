@@ -3,7 +3,7 @@ name: Update Character Rankings
 on:
   schedule:
     # Run every hour
-    - cron: '*/5 * * * *'
+    - cron: '*/2 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
