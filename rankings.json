@@ -1,10 +1,10 @@
 {
-  "updated_at": "2025-11-27T16:47:45.882Z",
+  "updated_at": "2025-11-27T16:55:56.588Z",
   "total_users": 104,
   "rankings": [
     {
       "user_id": "fb7a83d8-0ab7-459a-aacc-f4a33e207abb",
-      "total_rating": 3526,
+      "total_rating": 3542,
       "characters": [
         {
           "id": "5c40ed15-caee-4f5b-85d1-772219dae74f",
@@ -18,7 +18,7 @@
           "nickname": "신",
           "element": "데이터분석",
           "power": 500,
-          "rating": 1073
+          "rating": 1089
         },
         {
           "id": "a415cac7-2744-44b3-9b0d-2ff8fb936a2f",
@@ -85,14 +85,14 @@
     },
     {
       "user_id": "11a11e3a-4f4f-4a8a-9068-1ff82fb20b99",
-      "total_rating": 3418,
+      "total_rating": 3442,
       "characters": [
         {
           "id": "09732335-1884-4ae8-a482-65877c8b5e53",
           "nickname": "탱",
           "element": "택시서비스",
           "power": 480,
-          "rating": 1021
+          "rating": 1045
         },
         {
           "id": "50e53a5e-ae1e-4d62-9a42-e0f48c1c042e",
@@ -165,33 +165,6 @@
       ]
     },
     {
-      "user_id": "3ab4457d-b0ad-46de-8fad-4c35d2781ca7",
-      "total_rating": 3307,
-      "characters": [
-        {
-          "id": "dcd70227-72f2-4dd4-ab91-bd250d80a5fc",
-          "nickname": "CSS IS AWESOME",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 1030
-        },
-        {
-          "id": "6aabf65d-bdc0-4b22-b370-860ba79cf637",
-          "nickname": "나단의혓바닥",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 1245
-        },
-        {
-          "id": "fd388c8a-7e2f-4aec-8590-26fa1c3a8cd6",
-          "nickname": "잼민이",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 1032
-        }
-      ]
-    },
-    {
       "user_id": "3e01b5d1-8699-4224-bd9b-b790d5c062e0",
       "total_rating": 3284,
       "characters": [
@@ -242,6 +215,33 @@
           "element": "택시서비스",
           "power": 380,
           "rating": 1065
+        }
+      ]
+    },
+    {
+      "user_id": "3ab4457d-b0ad-46de-8fad-4c35d2781ca7",
+      "total_rating": 3274,
+      "characters": [
+        {
+          "id": "dcd70227-72f2-4dd4-ab91-bd250d80a5fc",
+          "nickname": "CSS IS AWESOME",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 1030
+        },
+        {
+          "id": "6aabf65d-bdc0-4b22-b370-860ba79cf637",
+          "nickname": "나단의혓바닥",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1212
+        },
+        {
+          "id": "fd388c8a-7e2f-4aec-8590-26fa1c3a8cd6",
+          "nickname": "잼민이",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 1032
         }
       ]
     },
@@ -382,7 +382,7 @@
     },
     {
       "user_id": "ee6356e6-4693-463d-a417-b18a674206da",
-      "total_rating": 3216,
+      "total_rating": 3248,
       "characters": [
         {
           "id": "f0067fc8-77aa-4714-b301-171664b43b43",
@@ -403,34 +403,7 @@
           "nickname": "쿠뤡",
           "element": "데이터분석",
           "power": 380,
-          "rating": 1025
-        }
-      ]
-    },
-    {
-      "user_id": "994eb5a6-48ed-44d0-9c00-8ffdfad6e6e4",
-      "total_rating": 3215,
-      "characters": [
-        {
-          "id": "1056dc3d-fbe6-4bd1-a6f8-a43473d2761d",
-          "nickname": "콥",
-          "element": "데이터분석",
-          "power": 380,
-          "rating": 1037
-        },
-        {
-          "id": "45e9ae0f-30ce-48c7-9af1-328e07deaaf5",
-          "nickname": "강설계",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1035
-        },
-        {
-          "id": "03a15050-3e28-445e-baaa-9c2235e601f3",
-          "nickname": "이인사이트",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1143
+          "rating": 1057
         }
       ]
     },
@@ -512,6 +485,33 @@
           "element": "내비게이션",
           "power": 420,
           "rating": 1069
+        }
+      ]
+    },
+    {
+      "user_id": "994eb5a6-48ed-44d0-9c00-8ffdfad6e6e4",
+      "total_rating": 3200,
+      "characters": [
+        {
+          "id": "1056dc3d-fbe6-4bd1-a6f8-a43473d2761d",
+          "nickname": "콥",
+          "element": "데이터분석",
+          "power": 380,
+          "rating": 1022
+        },
+        {
+          "id": "45e9ae0f-30ce-48c7-9af1-328e07deaaf5",
+          "nickname": "강설계",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1035
+        },
+        {
+          "id": "03a15050-3e28-445e-baaa-9c2235e601f3",
+          "nickname": "이인사이트",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1143
         }
       ]
     },
@@ -598,21 +598,21 @@
     },
     {
       "user_id": "f8084552-5e3d-4083-a5ac-58867ca0711d",
-      "total_rating": 3142,
+      "total_rating": 3152,
       "characters": [
         {
           "id": "8db6ee73-ca9c-49e4-991c-ed46be30305e",
           "nickname": "준덕",
           "element": "내비게이션",
           "power": 380,
-          "rating": 1137
+          "rating": 1162
         },
         {
           "id": "13231869-e086-47e2-b638-c94303fe2b96",
           "nickname": "테오",
           "element": "내비게이션",
           "power": 380,
-          "rating": 1080
+          "rating": 1065
         },
         {
           "id": "72b69a2c-0f43-402e-8bf7-4be678ab13b0",
@@ -620,6 +620,33 @@
           "element": "택시서비스",
           "power": 480,
           "rating": 925
+        }
+      ]
+    },
+    {
+      "user_id": "39d478f5-c2dd-4d65-b627-4f4d771d5ab8",
+      "total_rating": 3146,
+      "characters": [
+        {
+          "id": "2b5cdf88-37d1-4521-818f-da36e2892629",
+          "nickname": "후니",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1018
+        },
+        {
+          "id": "4769994c-ad6e-456e-b662-57a227da2b15",
+          "nickname": "초싸이언 후니",
+          "element": "내비게이션",
+          "power": 380,
+          "rating": 1130
+        },
+        {
+          "id": "c6596369-a15f-4ade-9d9b-ba1a103891db",
+          "nickname": "GOD 후니",
+          "element": "데이터분석",
+          "power": 500,
+          "rating": 998
         }
       ]
     },
@@ -647,33 +674,6 @@
           "element": "테크",
           "power": 250,
           "rating": 984
-        }
-      ]
-    },
-    {
-      "user_id": "39d478f5-c2dd-4d65-b627-4f4d771d5ab8",
-      "total_rating": 3127,
-      "characters": [
-        {
-          "id": "2b5cdf88-37d1-4521-818f-da36e2892629",
-          "nickname": "후니",
-          "element": "내비게이션",
-          "power": 420,
-          "rating": 1018
-        },
-        {
-          "id": "4769994c-ad6e-456e-b662-57a227da2b15",
-          "nickname": "초싸이언 후니",
-          "element": "내비게이션",
-          "power": 380,
-          "rating": 1130
-        },
-        {
-          "id": "c6596369-a15f-4ade-9d9b-ba1a103891db",
-          "nickname": "GOD 후니",
-          "element": "데이터분석",
-          "power": 500,
-          "rating": 979
         }
       ]
     },
@@ -706,21 +706,21 @@
     },
     {
       "user_id": "bad2f1d2-0c76-45f8-b462-97851ee9fc09",
-      "total_rating": 3107,
+      "total_rating": 3106,
       "characters": [
         {
           "id": "5b986a60-fd9d-48b9-9183-1edde7a57a13",
           "nickname": "제로(Zero) — 모빌리티 시스템 ‘미래예지 엔진’ 개발자",
           "element": "내비게이션",
           "power": 480,
-          "rating": 941
+          "rating": 928
         },
         {
           "id": "cd96f15e-4268-48bc-b518-4e42e9291d75",
           "nickname": "세스코",
           "element": "데이터분석",
           "power": 480,
-          "rating": 1109
+          "rating": 1121
         },
         {
           "id": "5a8e8ab9-a063-4d9f-a6e7-d9824f14c633",
@@ -728,33 +728,6 @@
           "element": "택시서비스",
           "power": 480,
           "rating": 1057
-        }
-      ]
-    },
-    {
-      "user_id": "437a1cf0-76a3-4d95-9e8d-7b8ebee174a1",
-      "total_rating": 3104,
-      "characters": [
-        {
-          "id": "ce019924-2aa9-4e10-8c31-dd675d6498a6",
-          "nickname": "차도현",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1166
-        },
-        {
-          "id": "0a6925bf-e426-486a-bb26-718b6c3f4870",
-          "nickname": "나비게이터 킴",
-          "element": "내비게이션",
-          "power": 420,
-          "rating": 987
-        },
-        {
-          "id": "a3772d8c-714f-490e-932b-eff0902734c7",
-          "nickname": "강한나",
-          "element": "주차솔루션",
-          "power": 480,
-          "rating": 951
         }
       ]
     },
@@ -813,6 +786,33 @@
       ]
     },
     {
+      "user_id": "437a1cf0-76a3-4d95-9e8d-7b8ebee174a1",
+      "total_rating": 3098,
+      "characters": [
+        {
+          "id": "ce019924-2aa9-4e10-8c31-dd675d6498a6",
+          "nickname": "차도현",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1177
+        },
+        {
+          "id": "0a6925bf-e426-486a-bb26-718b6c3f4870",
+          "nickname": "나비게이터 킴",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 970
+        },
+        {
+          "id": "a3772d8c-714f-490e-932b-eff0902734c7",
+          "nickname": "강한나",
+          "element": "주차솔루션",
+          "power": 480,
+          "rating": 951
+        }
+      ]
+    },
+    {
       "user_id": "52690cfb-7109-43b6-ba19-35b867933204",
       "total_rating": 3097,
       "characters": [
@@ -841,7 +841,7 @@
     },
     {
       "user_id": "29e89932-7c25-4c01-98c1-31a102752053",
-      "total_rating": 3087,
+      "total_rating": 3093,
       "characters": [
         {
           "id": "87086fe1-6371-49bc-86ab-a08312d67732",
@@ -862,7 +862,7 @@
           "nickname": "그럭저럭",
           "element": "택시서비스",
           "power": 280,
-          "rating": 1285
+          "rating": 1291
         }
       ]
     },
@@ -895,7 +895,7 @@
     },
     {
       "user_id": "387e70c2-d725-4af8-8c85-19e57fa6a29e",
-      "total_rating": 3061,
+      "total_rating": 3070,
       "characters": [
         {
           "id": "523c4d3d-8322-42bd-962c-c19d6d81a6dc",
@@ -916,7 +916,7 @@
           "nickname": "스티브",
           "element": "내비게이션",
           "power": 380,
-          "rating": 910
+          "rating": 919
         }
       ]
     },
@@ -948,6 +948,33 @@
       ]
     },
     {
+      "user_id": "56e9c2e3-b8ad-4070-8e6f-c5977d14b501",
+      "total_rating": 3030,
+      "characters": [
+        {
+          "id": "ea6ed37a-dd8d-4e5b-866e-0f2ad572a86e",
+          "nickname": "레이장",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1007
+        },
+        {
+          "id": "b81651e7-d832-4c76-b20b-8c283d8afe6e",
+          "nickname": "헤이장",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1072
+        },
+        {
+          "id": "a521f927-1ac1-4e10-8e62-a7f73000cff5",
+          "nickname": "데이장",
+          "element": "택시서비스",
+          "power": 420,
+          "rating": 951
+        }
+      ]
+    },
+    {
       "user_id": "36d2637c-f227-46b7-a278-a46b5a3b117e",
       "total_rating": 3030,
       "characters": [
@@ -971,6 +998,33 @@
           "element": "택시서비스",
           "power": 480,
           "rating": 987
+        }
+      ]
+    },
+    {
+      "user_id": "575c7ad5-80ed-4379-95d1-b72c6b1dc9dc",
+      "total_rating": 3029,
+      "characters": [
+        {
+          "id": "35a295c9-8559-42dc-8fe4-4ca1421abf27",
+          "nickname": "주노",
+          "element": "테크",
+          "power": 250,
+          "rating": 941
+        },
+        {
+          "id": "cb1a62f0-6462-49fa-ab59-881d9b9c0bc5",
+          "nickname": "공통통",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1017
+        },
+        {
+          "id": "75b82b5c-01b0-48f4-8a54-20d8b4abcd12",
+          "nickname": "이김",
+          "element": "택시서비스",
+          "power": 480,
+          "rating": 1071
         }
       ]
     },
@@ -1002,42 +1056,15 @@
       ]
     },
     {
-      "user_id": "575c7ad5-80ed-4379-95d1-b72c6b1dc9dc",
-      "total_rating": 3025,
-      "characters": [
-        {
-          "id": "35a295c9-8559-42dc-8fe4-4ca1421abf27",
-          "nickname": "주노",
-          "element": "테크",
-          "power": 250,
-          "rating": 955
-        },
-        {
-          "id": "cb1a62f0-6462-49fa-ab59-881d9b9c0bc5",
-          "nickname": "공통통",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 999
-        },
-        {
-          "id": "75b82b5c-01b0-48f4-8a54-20d8b4abcd12",
-          "nickname": "이김",
-          "element": "택시서비스",
-          "power": 480,
-          "rating": 1071
-        }
-      ]
-    },
-    {
       "user_id": "a2c60d0c-fd9d-4790-905e-92e02b7546e1",
-      "total_rating": 3024,
+      "total_rating": 3025,
       "characters": [
         {
           "id": "803012b2-7ba8-41a7-8e9b-b3d8dabe4c07",
           "nickname": "블",
           "element": "내비게이션",
           "power": 420,
-          "rating": 965
+          "rating": 951
         },
         {
           "id": "c88c395f-07ac-4e3c-8261-7a68dab62c92",
@@ -1051,7 +1078,7 @@
           "nickname": "어",
           "element": "내비게이션",
           "power": 380,
-          "rating": 1067
+          "rating": 1082
         }
       ]
     },
@@ -1137,60 +1164,6 @@
       ]
     },
     {
-      "user_id": "56e9c2e3-b8ad-4070-8e6f-c5977d14b501",
-      "total_rating": 3007,
-      "characters": [
-        {
-          "id": "ea6ed37a-dd8d-4e5b-866e-0f2ad572a86e",
-          "nickname": "레이장",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 975
-        },
-        {
-          "id": "b81651e7-d832-4c76-b20b-8c283d8afe6e",
-          "nickname": "헤이장",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 1096
-        },
-        {
-          "id": "a521f927-1ac1-4e10-8e62-a7f73000cff5",
-          "nickname": "데이장",
-          "element": "택시서비스",
-          "power": 420,
-          "rating": 936
-        }
-      ]
-    },
-    {
-      "user_id": "8b3e1c15-4d1c-40ee-a368-507e35d27f7d",
-      "total_rating": 3006,
-      "characters": [
-        {
-          "id": "901456a0-b3d1-4598-aa38-93b71789fd64",
-          "nickname": "이지 분석가",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 975
-        },
-        {
-          "id": "18eb4314-74de-4e5e-9868-2ddec0ce6365",
-          "nickname": "시공간 경로 엔지니어",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 999
-        },
-        {
-          "id": "ed10ac92-2520-427f-8876-06108e85ca37",
-          "nickname": "자율 모빌리티 생태계 조율자",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 1032
-        }
-      ]
-    },
-    {
       "user_id": "cb17b77c-104e-489f-9c37-b3548b39ef96",
       "total_rating": 3002,
       "characters": [
@@ -1241,6 +1214,60 @@
           "element": "택시서비스",
           "power": 380,
           "rating": 984
+        }
+      ]
+    },
+    {
+      "user_id": "65c66708-0251-449f-8204-44f922256223",
+      "total_rating": 2996,
+      "characters": [
+        {
+          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
+          "nickname": "쌀숭이",
+          "element": "데이터분석",
+          "power": 420,
+          "rating": 1048
+        },
+        {
+          "id": "9238996e-173a-4677-9e50-705949fc61a9",
+          "nickname": "신창섭",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1015
+        },
+        {
+          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
+          "nickname": "사탄의 혈육",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 933
+        }
+      ]
+    },
+    {
+      "user_id": "8b3e1c15-4d1c-40ee-a368-507e35d27f7d",
+      "total_rating": 2991,
+      "characters": [
+        {
+          "id": "901456a0-b3d1-4598-aa38-93b71789fd64",
+          "nickname": "이지 분석가",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 944
+        },
+        {
+          "id": "18eb4314-74de-4e5e-9868-2ddec0ce6365",
+          "nickname": "시공간 경로 엔지니어",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 999
+        },
+        {
+          "id": "ed10ac92-2520-427f-8876-06108e85ca37",
+          "nickname": "자율 모빌리티 생태계 조율자",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 1048
         }
       ]
     },
@@ -1461,89 +1488,8 @@
       ]
     },
     {
-      "user_id": "394e342a-0634-4b1d-905f-6fabd3940f68",
-      "total_rating": 2906,
-      "characters": [
-        {
-          "id": "b373ae3d-8c1f-4240-a2b4-e86358bd7c52",
-          "nickname": "방구석전문가",
-          "element": "데이터분석",
-          "power": 380,
-          "rating": 921
-        },
-        {
-          "id": "c308ce16-482b-4052-a567-561d66799768",
-          "nickname": "배달배",
-          "element": "내비게이션",
-          "power": 380,
-          "rating": 1005
-        },
-        {
-          "id": "7dadeabb-c292-4a60-a4f5-659d8bd669e4",
-          "nickname": "들을엉",
-          "element": "대리운전",
-          "power": 380,
-          "rating": 980
-        }
-      ]
-    },
-    {
-      "user_id": "65c66708-0251-449f-8204-44f922256223",
-      "total_rating": 2903,
-      "characters": [
-        {
-          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
-          "nickname": "쌀숭이",
-          "element": "데이터분석",
-          "power": 420,
-          "rating": 1054
-        },
-        {
-          "id": "9238996e-173a-4677-9e50-705949fc61a9",
-          "nickname": "신창섭",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1010
-        },
-        {
-          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
-          "nickname": "사탄의 혈육",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 839
-        }
-      ]
-    },
-    {
-      "user_id": "95968624-8ba0-4042-84e7-f8aa1f43def9",
-      "total_rating": 2900,
-      "characters": [
-        {
-          "id": "9554c3b2-75a4-473a-a39e-7a449158130a",
-          "nickname": "EastNine",
-          "element": "주차솔루션",
-          "power": 420,
-          "rating": 1041
-        },
-        {
-          "id": "0247e5ad-227b-4243-8f81-a2ddc9dd89a1",
-          "nickname": "paul",
-          "element": "주차솔루션",
-          "power": 380,
-          "rating": 823
-        },
-        {
-          "id": "7943258f-2d8f-45bc-88cc-05186eb3ae70",
-          "nickname": "east9",
-          "element": "대리운전",
-          "power": 380,
-          "rating": 1036
-        }
-      ]
-    },
-    {
       "user_id": "aaf4e996-efad-47a7-af68-0a27da91e169",
-      "total_rating": 2890,
+      "total_rating": 2905,
       "characters": [
         {
           "id": "1dd161f7-accb-41e6-8142-42480a41fb62",
@@ -1564,13 +1510,13 @@
           "nickname": "스팟",
           "element": "주차솔루션",
           "power": 480,
-          "rating": 1085
+          "rating": 1100
         }
       ]
     },
     {
       "user_id": "9e7136c9-71f4-41e7-bfaa-f06a8439b59c",
-      "total_rating": 2875,
+      "total_rating": 2893,
       "characters": [
         {
           "id": "4a53a7e5-9ff0-4b09-ad22-1642d2d8c74b",
@@ -1584,7 +1530,7 @@
           "nickname": "콜라",
           "element": "택시서비스",
           "power": 480,
-          "rating": 945
+          "rating": 963
         },
         {
           "id": "cd14b88c-365c-46e9-9059-3cea09fab39a",
@@ -1592,6 +1538,60 @@
           "element": "데이터분석",
           "power": 480,
           "rating": 898
+        }
+      ]
+    },
+    {
+      "user_id": "95968624-8ba0-4042-84e7-f8aa1f43def9",
+      "total_rating": 2884,
+      "characters": [
+        {
+          "id": "9554c3b2-75a4-473a-a39e-7a449158130a",
+          "nickname": "EastNine",
+          "element": "주차솔루션",
+          "power": 420,
+          "rating": 1041
+        },
+        {
+          "id": "0247e5ad-227b-4243-8f81-a2ddc9dd89a1",
+          "nickname": "paul",
+          "element": "주차솔루션",
+          "power": 380,
+          "rating": 807
+        },
+        {
+          "id": "7943258f-2d8f-45bc-88cc-05186eb3ae70",
+          "nickname": "east9",
+          "element": "대리운전",
+          "power": 380,
+          "rating": 1036
+        }
+      ]
+    },
+    {
+      "user_id": "394e342a-0634-4b1d-905f-6fabd3940f68",
+      "total_rating": 2881,
+      "characters": [
+        {
+          "id": "b373ae3d-8c1f-4240-a2b4-e86358bd7c52",
+          "nickname": "방구석전문가",
+          "element": "데이터분석",
+          "power": 380,
+          "rating": 921
+        },
+        {
+          "id": "c308ce16-482b-4052-a567-561d66799768",
+          "nickname": "배달배",
+          "element": "내비게이션",
+          "power": 380,
+          "rating": 980
+        },
+        {
+          "id": "7dadeabb-c292-4a60-a4f5-659d8bd669e4",
+          "nickname": "들을엉",
+          "element": "대리운전",
+          "power": 380,
+          "rating": 980
         }
       ]
     },
@@ -1650,33 +1650,6 @@
       ]
     },
     {
-      "user_id": "8922a725-fca5-4f79-abfc-198f602eabdb",
-      "total_rating": 2840,
-      "characters": [
-        {
-          "id": "18ba8e85-9c6f-4049-9876-f3417a16383c",
-          "nickname": "젤라또",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1173
-        },
-        {
-          "id": "b427479a-d472-49a2-82cc-3a157b2c086c",
-          "nickname": "아이스크리무",
-          "element": "데이터분석",
-          "power": 500,
-          "rating": 785
-        },
-        {
-          "id": "d50d1e0b-5272-405e-af1b-b76a657bbc00",
-          "nickname": "에드워드만이김",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 882
-        }
-      ]
-    },
-    {
       "user_id": "d93489a5-4e61-47c7-9b02-9c6949171702",
       "total_rating": 2840,
       "characters": [
@@ -1700,6 +1673,33 @@
           "element": "주차솔루션",
           "power": 420,
           "rating": 1015
+        }
+      ]
+    },
+    {
+      "user_id": "8922a725-fca5-4f79-abfc-198f602eabdb",
+      "total_rating": 2836,
+      "characters": [
+        {
+          "id": "18ba8e85-9c6f-4049-9876-f3417a16383c",
+          "nickname": "젤라또",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1185
+        },
+        {
+          "id": "b427479a-d472-49a2-82cc-3a157b2c086c",
+          "nickname": "아이스크리무",
+          "element": "데이터분석",
+          "power": 500,
+          "rating": 785
+        },
+        {
+          "id": "d50d1e0b-5272-405e-af1b-b76a657bbc00",
+          "nickname": "에드워드만이김",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 866
         }
       ]
     },
@@ -1731,33 +1731,6 @@
       ]
     },
     {
-      "user_id": "53545fa5-1e07-4e65-ba1d-79e394319258",
-      "total_rating": 2760,
-      "characters": [
-        {
-          "id": "e39eb415-c761-44cc-bbff-7b138d8c4c61",
-          "nickname": "1",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 864
-        },
-        {
-          "id": "23980d80-c14c-40e1-9497-10696b515adc",
-          "nickname": "2",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 1000
-        },
-        {
-          "id": "43ffc01a-7aa8-4571-94d3-2137632ef149",
-          "nickname": "3",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 896
-        }
-      ]
-    },
-    {
       "user_id": "a91178da-aa92-4d24-83dd-a36922402838",
       "total_rating": 2747,
       "characters": [
@@ -1785,8 +1758,35 @@
       ]
     },
     {
+      "user_id": "53545fa5-1e07-4e65-ba1d-79e394319258",
+      "total_rating": 2744,
+      "characters": [
+        {
+          "id": "e39eb415-c761-44cc-bbff-7b138d8c4c61",
+          "nickname": "1",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 864
+        },
+        {
+          "id": "23980d80-c14c-40e1-9497-10696b515adc",
+          "nickname": "2",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1000
+        },
+        {
+          "id": "43ffc01a-7aa8-4571-94d3-2137632ef149",
+          "nickname": "3",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 880
+        }
+      ]
+    },
+    {
       "user_id": "40f3122e-07ab-477c-9db7-bbea4b56a0ee",
-      "total_rating": 2556,
+      "total_rating": 2539,
       "characters": [
         {
           "id": "73f00e71-3b0d-4cfe-93f4-0944df5f4b1f",
@@ -1807,13 +1807,13 @@
           "nickname": "Rule maker",
           "element": "내비게이션",
           "power": 500,
-          "rating": 870
+          "rating": 853
         }
       ]
     },
     {
       "user_id": "04c866ed-3eef-48e0-8cc6-703420b25a74",
-      "total_rating": 2513,
+      "total_rating": 2497,
       "characters": [
         {
           "id": "939aa3b3-436f-4a9e-b0fb-6b0867b7eedb",
@@ -1834,7 +1834,7 @@
           "nickname": "게임 설계자 “시스템 아키텍트 델타”",
           "element": "데이터분석",
           "power": 480,
-          "rating": 919
+          "rating": 903
         }
       ]
     },
@@ -1867,7 +1867,7 @@
     },
     {
       "user_id": "c19688da-f3fa-4fd7-b976-150f5742dbf8",
-      "total_rating": 2428,
+      "total_rating": 2396,
       "characters": [
         {
           "id": "6b96463c-1531-4d4c-89f4-9db2a5852cec",
@@ -1881,14 +1881,14 @@
           "nickname": "크로노스 (Chronos)",
           "element": "택시서비스",
           "power": 480,
-          "rating": 655
+          "rating": 643
         },
         {
           "id": "dc82fdb3-bba1-4603-9204-ce7cd5fc053e",
           "nickname": "하이브 마인드 (Hive Mind)",
           "element": "택시서비스",
           "power": 480,
-          "rating": 909
+          "rating": 889
         }
       ]
     },
@@ -1995,7 +1995,7 @@
     },
     {
       "user_id": "88ed406f-bbff-423d-8924-600c0296d8c0",
-      "total_rating": 1953,
+      "total_rating": 1936,
       "characters": [
         {
           "id": "1da0e768-61c0-4124-ae8b-ac0499f691ba",
@@ -2009,7 +2009,7 @@
           "nickname": "ㄱㄱ",
           "element": "데이터분석",
           "power": 420,
-          "rating": 932
+          "rating": 915
         }
       ]
     },
@@ -2165,19 +2165,6 @@
       ]
     },
     {
-      "user_id": "f0467bd1-63b9-439c-b0ef-9ac4edb75ed1",
-      "total_rating": 1054,
-      "characters": [
-        {
-          "id": "c284f8c9-afaa-4461-8338-c87deb9f63c1",
-          "nickname": "양쓰",
-          "element": "내비게이션",
-          "power": 420,
-          "rating": 1054
-        }
-      ]
-    },
-    {
       "user_id": "73777346-5eaa-4b55-8eb8-84815f500534",
       "total_rating": 1053,
       "characters": [
@@ -2243,6 +2230,19 @@
       ]
     },
     {
+      "user_id": "f0467bd1-63b9-439c-b0ef-9ac4edb75ed1",
+      "total_rating": 1011,
+      "characters": [
+        {
+          "id": "c284f8c9-afaa-4461-8338-c87deb9f63c1",
+          "nickname": "양쓰",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1011
+        }
+      ]
+    },
+    {
       "user_id": "7b086496-0888-4540-a5f7-a7e5d868e3e3",
       "total_rating": 999,
       "characters": [
@@ -2295,19 +2295,6 @@
       ]
     },
     {
-      "user_id": "4ff70300-0026-4579-94c4-38cf9c97b3ea",
-      "total_rating": 984,
-      "characters": [
-        {
-          "id": "491206f9-4b5f-4ad7-87c7-c704138aae0f",
-          "nickname": "항공 걸어다니는 위키",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 984
-        }
-      ]
-    },
-    {
       "user_id": "cc99ed6f-836f-4c9e-a1b6-3ba35c0fa049",
       "total_rating": 982,
       "characters": [
@@ -2334,15 +2321,28 @@
       ]
     },
     {
+      "user_id": "4ff70300-0026-4579-94c4-38cf9c97b3ea",
+      "total_rating": 966,
+      "characters": [
+        {
+          "id": "491206f9-4b5f-4ad7-87c7-c704138aae0f",
+          "nickname": "항공 걸어다니는 위키",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 966
+        }
+      ]
+    },
+    {
       "user_id": "78dbc1ee-ed11-413a-8cef-5e2ad35da99d",
-      "total_rating": 921,
+      "total_rating": 938,
       "characters": [
         {
           "id": "60e1c90f-9647-471c-831e-e181cc456740",
           "nickname": "도미닉",
           "element": "내비게이션",
           "power": 480,
-          "rating": 921
+          "rating": 938
         }
       ]
     },
@@ -2360,19 +2360,6 @@
       ]
     },
     {
-      "user_id": "f9e70cd0-02b7-423c-b2b2-d94893b74d16",
-      "total_rating": 875,
-      "characters": [
-        {
-          "id": "6af8bd1b-7794-4bf0-9c91-f629e81355ea",
-          "nickname": "젠슨황",
-          "element": "내비게이션",
-          "power": 480,
-          "rating": 875
-        }
-      ]
-    },
-    {
       "user_id": "dec50849-3222-468c-9334-26c87c82dc1c",
       "total_rating": 874,
       "characters": [
@@ -2382,6 +2369,19 @@
           "element": "택시서비스",
           "power": 420,
           "rating": 874
+        }
+      ]
+    },
+    {
+      "user_id": "f9e70cd0-02b7-423c-b2b2-d94893b74d16",
+      "total_rating": 862,
+      "characters": [
+        {
+          "id": "6af8bd1b-7794-4bf0-9c91-f629e81355ea",
+          "nickname": "젠슨황",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 862
         }
       ]
     },
