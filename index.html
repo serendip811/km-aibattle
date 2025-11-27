@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Battle - Character Rankings</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .update-time {
+            text-align: center;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 20px;
+            font-size: 0.9rem;
+        }
+
+        .rankings-container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .ranking-item {
+            padding: 20px;
+            border-bottom: 1px solid #e0e0e0;
+            transition: background-color 0.2s;
+        }
+
+        .ranking-item:hover {
+            background-color: #f5f5f5;
+        }
+
+        .ranking-item:last-child {
+            border-bottom: none;
+        }
+
+        .rank-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+
+        .rank-number {
+            font-size: 2rem;
+            font-weight: bold;
+            min-width: 60px;
+            color: #667eea;
+        }
+
+        .rank-1 .rank-number {
+            color: #FFD700;
+        }
+
+        .rank-2 .rank-number {
+            color: #C0C0C0;
+        }
+
+        .rank-3 .rank-number {
+            color: #CD7F32;
+        }
+
+        .total-rating {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #333;
+            margin-left: auto;
+        }
+
+        .total-rating-label {
+            font-size: 0.9rem;
+            color: #666;
+            margin-right: 10px;
+        }
+
+        .user-id {
+            font-size: 0.8rem;
+            color: #999;
+            margin-left: 10px;
+        }
+
+        .characters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .character-card {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            border-radius: 10px;
+            padding: 15px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .character-name {
+            font-size: 1.2rem;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .character-info {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .character-stat {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.9rem;
+        }
+
+        .stat-label {
+            color: #666;
+        }
+
+        .stat-value {
+            font-weight: 600;
+            color: #333;
+        }
+
+        .element {
+            background: #667eea;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 0.85rem;
+            display: inline-block;
+            margin-top: 5px;
+        }
+
+        .loading {
+            text-align: center;
+            color: white;
+            font-size: 1.5rem;
+            padding: 50px;
+        }
+
+        .error {
+            background: #ff6b6b;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏆 AI Battle Character Rankings</h1>
+        <div class="update-time" id="updateTime">Loading...</div>
+        <div class="rankings-container" id="rankings">
+            <div class="loading">Loading rankings...</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadRankings() {
+            try {
+                const response = await fetch('rankings.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load rankings data');
+                }
+                const data = await response.json();
+                displayRankings(data);
+            } catch (error) {
+                console.error('Error loading rankings:', error);
+                document.getElementById('rankings').innerHTML =
+                    '<div class="error">Failed to load rankings. Please try again later.</div>';
+            }
+        }
+
+        function displayRankings(data) {
+            const updateTime = document.getElementById('updateTime');
+            updateTime.textContent = `Last updated: ${new Date(data.updated_at).toLocaleString('ko-KR')}`;
+
+            const rankingsContainer = document.getElementById('rankings');
+            rankingsContainer.innerHTML = '';
+
+            data.rankings.forEach((user, index) => {
+                const rank = index + 1;
+                const rankingItem = document.createElement('div');
+                rankingItem.className = `ranking-item rank-${rank}`;
+
+                let rankEmoji = '';
+                if (rank === 1) rankEmoji = '🥇';
+                else if (rank === 2) rankEmoji = '🥈';
+                else if (rank === 3) rankEmoji = '🥉';
+
+                const charactersHTML = user.characters.map(char => `
+                    <div class="character-card">
+                        <div class="character-name">${char.nickname}</div>
+                        <div class="character-info">
+                            <div class="character-stat">
+                                <span class="stat-label">Rating:</span>
+                                <span class="stat-value">${char.rating}</span>
+                            </div>
+                            <div class="character-stat">
+                                <span class="stat-label">Power:</span>
+                                <span class="stat-value">${char.power}</span>
+                            </div>
+                            <div class="element">${char.element}</div>
+                        </div>
+                    </div>
+                `).join('');
+
+                rankingItem.innerHTML = `
+                    <div class="rank-header">
+                        <span class="rank-number">${rankEmoji} #${rank}</span>
+                        <span class="user-id">${user.user_id.substring(0, 8)}...</span>
+                        <span class="total-rating-label">Total Rating:</span>
+                        <span class="total-rating">${user.total_rating}</span>
+                    </div>
+                    <div class="characters-grid">
+                        ${charactersHTML}
+                    </div>
+                `;
+
+                rankingsContainer.appendChild(rankingItem);
+            });
+        }
+
+        // Load rankings on page load
+        loadRankings();
+
+        // Refresh every 5 minutes
+        setInterval(loadRankings, 5 * 60 * 1000);
+    </script>
+</body>
+</html>
