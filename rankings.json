@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27T13:54:51.462Z",
+  "updated_at": "2025-11-27T13:55:11.484Z",
   "total_users": 104,
   "rankings": [
     {
@@ -139,7 +139,7 @@
     },
     {
       "user_id": "f3fb9212-9ac4-4978-8bf4-4bebf2be22c1",
-      "total_rating": 3420,
+      "total_rating": 3396,
       "characters": [
         {
           "id": "5ce37494-d792-46ce-831e-dc5b6bbe47ed",
@@ -160,7 +160,7 @@
           "nickname": "삼키",
           "element": "택시서비스",
           "power": 380,
-          "rating": 1162
+          "rating": 1138
         }
       ]
     },
@@ -354,6 +354,33 @@
       ]
     },
     {
+      "user_id": "c280c1ab-876c-43f9-964f-d93a823b8707",
+      "total_rating": 3201,
+      "characters": [
+        {
+          "id": "27643dbb-55e3-4fcf-beb5-addc262828bc",
+          "nickname": "집행자아칼리",
+          "element": "대리운전",
+          "power": 420,
+          "rating": 1101
+        },
+        {
+          "id": "99d54d9d-e281-4353-96f7-8e11f1c118f9",
+          "nickname": "RM마스터잭",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 984
+        },
+        {
+          "id": "bac86c11-3a46-4523-b2b8-18d0b6e45b58",
+          "nickname": "고이다못해썩어버린크렉",
+          "element": "택시서비스",
+          "power": 480,
+          "rating": 1116
+        }
+      ]
+    },
+    {
       "user_id": "bbb80f0b-bdbd-4c8b-a2b4-790e38a58d05",
       "total_rating": 3197,
       "characters": [
@@ -404,33 +431,6 @@
           "element": "데이터분석",
           "power": 480,
           "rating": 1114
-        }
-      ]
-    },
-    {
-      "user_id": "c280c1ab-876c-43f9-964f-d93a823b8707",
-      "total_rating": 3187,
-      "characters": [
-        {
-          "id": "27643dbb-55e3-4fcf-beb5-addc262828bc",
-          "nickname": "집행자아칼리",
-          "element": "대리운전",
-          "power": 420,
-          "rating": 1101
-        },
-        {
-          "id": "99d54d9d-e281-4353-96f7-8e11f1c118f9",
-          "nickname": "RM마스터잭",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 984
-        },
-        {
-          "id": "bac86c11-3a46-4523-b2b8-18d0b6e45b58",
-          "nickname": "고이다못해썩어버린크렉",
-          "element": "택시서비스",
-          "power": 480,
-          "rating": 1102
         }
       ]
     },
@@ -759,6 +759,33 @@
       ]
     },
     {
+      "user_id": "65c66708-0251-449f-8204-44f922256223",
+      "total_rating": 3092,
+      "characters": [
+        {
+          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
+          "nickname": "쌀숭이",
+          "element": "데이터분석",
+          "power": 420,
+          "rating": 1051
+        },
+        {
+          "id": "9238996e-173a-4677-9e50-705949fc61a9",
+          "nickname": "신창섭",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1036
+        },
+        {
+          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
+          "nickname": "사탄의 혈육",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1005
+        }
+      ]
+    },
+    {
       "user_id": "36d2637c-f227-46b7-a278-a46b5a3b117e",
       "total_rating": 3091,
       "characters": [
@@ -809,33 +836,6 @@
           "element": "데이터분석",
           "power": 380,
           "rating": 1002
-        }
-      ]
-    },
-    {
-      "user_id": "65c66708-0251-449f-8204-44f922256223",
-      "total_rating": 3082,
-      "characters": [
-        {
-          "id": "426aebc8-ad8f-417b-af7b-8e28daf0e673",
-          "nickname": "쌀숭이",
-          "element": "데이터분석",
-          "power": 420,
-          "rating": 1027
-        },
-        {
-          "id": "9238996e-173a-4677-9e50-705949fc61a9",
-          "nickname": "신창섭",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1036
-        },
-        {
-          "id": "f2c10bc9-0d48-4b0e-8731-de4bb5e137dd",
-          "nickname": "사탄의 혈육",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1019
         }
       ]
     },
