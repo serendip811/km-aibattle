@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T14:56:35.631Z",
+  "updated_at": "2025-11-28T15:05:17.431Z",
   "total_users": 109,
   "rankings": [
     {
@@ -705,6 +705,33 @@
       ]
     },
     {
+      "user_id": "558536b3-91a4-46e0-9c61-6585dcec71b9",
+      "total_rating": 3136,
+      "characters": [
+        {
+          "id": "0ff3200e-ffb6-4d82-9773-c1d5cdadfe73",
+          "nickname": "나천재",
+          "element": "택시서비스",
+          "power": 485,
+          "rating": 1199
+        },
+        {
+          "id": "294f58f4-b730-4df4-ba6c-4126ad99c87d",
+          "nickname": "박기획",
+          "element": "택시서비스",
+          "power": 480,
+          "rating": 988
+        },
+        {
+          "id": "a92d650d-6bfa-4ca8-a43c-09d3548c1b7a",
+          "nickname": "김개발",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 949
+        }
+      ]
+    },
+    {
       "user_id": "cb17b77c-104e-489f-9c37-b3548b39ef96",
       "total_rating": 3122,
       "characters": [
@@ -782,33 +809,6 @@
           "element": "내비게이션",
           "power": 380,
           "rating": 1033
-        }
-      ]
-    },
-    {
-      "user_id": "558536b3-91a4-46e0-9c61-6585dcec71b9",
-      "total_rating": 3117,
-      "characters": [
-        {
-          "id": "0ff3200e-ffb6-4d82-9773-c1d5cdadfe73",
-          "nickname": "나천재",
-          "element": "택시서비스",
-          "power": 485,
-          "rating": 1199
-        },
-        {
-          "id": "294f58f4-b730-4df4-ba6c-4126ad99c87d",
-          "nickname": "박기획",
-          "element": "택시서비스",
-          "power": 480,
-          "rating": 969
-        },
-        {
-          "id": "a92d650d-6bfa-4ca8-a43c-09d3548c1b7a",
-          "nickname": "김개발",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 949
         }
       ]
     },
