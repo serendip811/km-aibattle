@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T14:49:58.493Z",
-  "total_users": 108,
+  "updated_at": "2025-11-28T14:56:35.631Z",
+  "total_users": 109,
   "rankings": [
     {
       "user_id": "91c49fa1-7fc5-49ec-8520-379b75ce26aa",
@@ -1267,6 +1267,33 @@
           "nickname": "아르고스",
           "element": "데이터분석",
           "power": 420,
+          "rating": 1000
+        }
+      ]
+    },
+    {
+      "user_id": "d32dfc5f-c6a6-4ab2-9e5e-df40e4e4bc4f",
+      "total_rating": 3000,
+      "characters": [
+        {
+          "id": "033bb06c-a852-41f0-810d-9ccdeaf77db7",
+          "nickname": "초능력자",
+          "element": "택시서비스",
+          "power": 480,
+          "rating": 1000
+        },
+        {
+          "id": "7f9837fa-37f6-453c-bbfd-43f44f47d267",
+          "nickname": "슈퍼초능력자",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1000
+        },
+        {
+          "id": "fd7018b5-7c2b-49d4-bb8f-c75777a1ec85",
+          "nickname": "타노스",
+          "element": "주차솔루션",
+          "power": 480,
           "rating": 1000
         }
       ]
