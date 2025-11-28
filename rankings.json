@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-11-28T08:50:45.949Z",
-  "total_users": 107,
+  "updated_at": "2025-11-28T08:59:08.819Z",
+  "total_users": 108,
   "rankings": [
     {
       "user_id": "91c49fa1-7fc5-49ec-8520-379b75ce26aa",
@@ -31,14 +31,14 @@
     },
     {
       "user_id": "11a11e3a-4f4f-4a8a-9068-1ff82fb20b99",
-      "total_rating": 3663,
+      "total_rating": 3674,
       "characters": [
         {
           "id": "09732335-1884-4ae8-a482-65877c8b5e53",
           "nickname": "탱",
           "element": "택시서비스",
           "power": 480,
-          "rating": 1174
+          "rating": 1185
         },
         {
           "id": "50e53a5e-ae1e-4d62-9a42-e0f48c1c042e",
@@ -1241,6 +1241,33 @@
           "element": "테크",
           "power": 250,
           "rating": 958
+        }
+      ]
+    },
+    {
+      "user_id": "9e0dc0eb-0924-46da-ab99-3a59fdf82370",
+      "total_rating": 3000,
+      "characters": [
+        {
+          "id": "2a10ad14-9c00-45fe-b4a2-e7a23de1a8f9",
+          "nickname": "리버",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1000
+        },
+        {
+          "id": "39f35864-0a67-40a0-9d5a-483b28723741",
+          "nickname": "네비게이션",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1000
+        },
+        {
+          "id": "b3b3f51a-7870-4a28-952c-73c89d1dd51f",
+          "nickname": "아르고스",
+          "element": "데이터분석",
+          "power": 420,
+          "rating": 1000
         }
       ]
     },
