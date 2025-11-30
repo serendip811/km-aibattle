@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-30T14:33:13.480Z",
+  "updated_at": "2025-11-30T14:41:10.792Z",
   "total_users": 109,
   "rankings": [
     {
@@ -408,6 +408,33 @@
       ]
     },
     {
+      "user_id": "eaea7ab1-4125-4b00-b332-29a9eb3b7099",
+      "total_rating": 3219,
+      "characters": [
+        {
+          "id": "8996a568-1e17-4807-9529-9fb39d17b023",
+          "nickname": "에드워드",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 966
+        },
+        {
+          "id": "c129dbf6-390c-463f-b472-51b9bdc6bad1",
+          "nickname": "성하준",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1153
+        },
+        {
+          "id": "a03d189d-7543-42bf-96e9-4a4a177ec71e",
+          "nickname": "테스트 강자",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 1100
+        }
+      ]
+    },
+    {
       "user_id": "407ef773-df28-4dd7-8b70-404e92ec950a",
       "total_rating": 3217,
       "characters": [
@@ -431,33 +458,6 @@
           "element": "데이터분석",
           "power": 480,
           "rating": 1108
-        }
-      ]
-    },
-    {
-      "user_id": "eaea7ab1-4125-4b00-b332-29a9eb3b7099",
-      "total_rating": 3206,
-      "characters": [
-        {
-          "id": "8996a568-1e17-4807-9529-9fb39d17b023",
-          "nickname": "에드워드",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 966
-        },
-        {
-          "id": "c129dbf6-390c-463f-b472-51b9bdc6bad1",
-          "nickname": "성하준",
-          "element": "내비게이션",
-          "power": 420,
-          "rating": 1153
-        },
-        {
-          "id": "a03d189d-7543-42bf-96e9-4a4a177ec71e",
-          "nickname": "테스트 강자",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 1087
         }
       ]
     },
@@ -2143,14 +2143,14 @@
     },
     {
       "user_id": "c3914252-9fbf-4e47-b43b-b72cf187b7fc",
-      "total_rating": 1792,
+      "total_rating": 1779,
       "characters": [
         {
           "id": "c45b843a-45ca-44dd-8226-46948bde8f53",
           "nickname": "풀스택 개발자 (Full-stack Developer)",
           "element": "내비게이션",
           "power": 380,
-          "rating": 911
+          "rating": 898
         },
         {
           "id": "d38a346b-c426-4d2e-83a2-cc644a632fdd",
