@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-01T00:57:03.316Z",
-  "total_users": 109,
+  "updated_at": "2025-12-01T01:35:45.663Z",
+  "total_users": 110,
   "rankings": [
     {
       "user_id": "91c49fa1-7fc5-49ec-8520-379b75ce26aa",
@@ -2360,6 +2360,19 @@
           "element": "내비게이션",
           "power": 420,
           "rating": 1022
+        }
+      ]
+    },
+    {
+      "user_id": "4ac33a0f-275f-407f-8b72-852a5c1c14a9",
+      "total_rating": 1000,
+      "characters": [
+        {
+          "id": "51e8b4e4-430d-42e6-b21b-2e56a00179f5",
+          "nickname": "AI 개발자",
+          "element": "내비게이션",
+          "power": 480,
+          "rating": 1000
         }
       ]
     },
