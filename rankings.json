@@ -1,6 +1,6 @@
 {
-  "updated_at": "2025-12-03T05:21:49.638Z",
-  "total_users": 110,
+  "updated_at": "2025-12-03T05:33:49.047Z",
+  "total_users": 111,
   "rankings": [
     {
       "user_id": "91c49fa1-7fc5-49ec-8520-379b75ce26aa",
@@ -2372,6 +2372,19 @@
           "nickname": "AI 개발자",
           "element": "내비게이션",
           "power": 480,
+          "rating": 1000
+        }
+      ]
+    },
+    {
+      "user_id": "9803c07d-5fd5-438f-bacf-c94d3375b4f5",
+      "total_rating": 1000,
+      "characters": [
+        {
+          "id": "27774620-17b8-4dd0-8883-2efe883cbdf6",
+          "nickname": "칠갑산두루미",
+          "element": "택시서비스",
+          "power": 420,
           "rating": 1000
         }
       ]
