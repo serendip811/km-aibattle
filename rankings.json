@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-03T06:50:53.168Z",
+  "updated_at": "2025-12-03T06:59:32.363Z",
   "total_users": 111,
   "rankings": [
     {
@@ -732,6 +732,33 @@
       ]
     },
     {
+      "user_id": "cde40784-86c9-4699-9f2c-b6d58e2b5534",
+      "total_rating": 3122,
+      "characters": [
+        {
+          "id": "8a94995d-e454-46f3-b195-5576da304e8e",
+          "nickname": "모든것의 신",
+          "element": "테크",
+          "power": 250,
+          "rating": 928
+        },
+        {
+          "id": "58c5c3c4-399d-4f9d-b0bc-cc3b427654eb",
+          "nickname": "대리운전의 신",
+          "element": "대리운전",
+          "power": 500,
+          "rating": 1126
+        },
+        {
+          "id": "2488fdd0-aaad-45f4-9fbd-422bb9af015a",
+          "nickname": "퇴근 전문가",
+          "element": "테크",
+          "power": 250,
+          "rating": 1068
+        }
+      ]
+    },
+    {
       "user_id": "cb17b77c-104e-489f-9c37-b3548b39ef96",
       "total_rating": 3122,
       "characters": [
@@ -809,33 +836,6 @@
           "element": "내비게이션",
           "power": 380,
           "rating": 1033
-        }
-      ]
-    },
-    {
-      "user_id": "cde40784-86c9-4699-9f2c-b6d58e2b5534",
-      "total_rating": 3115,
-      "characters": [
-        {
-          "id": "8a94995d-e454-46f3-b195-5576da304e8e",
-          "nickname": "모든것의 신",
-          "element": "테크",
-          "power": 250,
-          "rating": 928
-        },
-        {
-          "id": "58c5c3c4-399d-4f9d-b0bc-cc3b427654eb",
-          "nickname": "대리운전의 신",
-          "element": "대리운전",
-          "power": 500,
-          "rating": 1119
-        },
-        {
-          "id": "2488fdd0-aaad-45f4-9fbd-422bb9af015a",
-          "nickname": "퇴근 전문가",
-          "element": "테크",
-          "power": 250,
-          "rating": 1068
         }
       ]
     },
@@ -2547,14 +2547,14 @@
     },
     {
       "user_id": "f9e70cd0-02b7-423c-b2b2-d94893b74d16",
-      "total_rating": 810,
+      "total_rating": 803,
       "characters": [
         {
           "id": "6af8bd1b-7794-4bf0-9c91-f629e81355ea",
           "nickname": "젠슨황",
           "element": "내비게이션",
           "power": 480,
-          "rating": 810
+          "rating": 803
         }
       ]
     }
