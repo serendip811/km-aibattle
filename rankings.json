@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-10T05:58:28.570Z",
+  "updated_at": "2025-12-10T06:14:00.413Z",
   "total_users": 111,
   "rankings": [
     {
@@ -894,33 +894,6 @@
       ]
     },
     {
-      "user_id": "52690cfb-7109-43b6-ba19-35b867933204",
-      "total_rating": 3104,
-      "characters": [
-        {
-          "id": "c0468558-9881-4bb9-94cc-23cc0a1f3bec",
-          "nickname": "노익장",
-          "element": "데이터분석",
-          "power": 480,
-          "rating": 1036
-        },
-        {
-          "id": "9367f949-e871-4fe1-bc1a-e61cef855d9a",
-          "nickname": "트렌디 너드 디벨로퍼",
-          "element": "내비게이션",
-          "power": 420,
-          "rating": 1085
-        },
-        {
-          "id": "2e31b2b6-6e89-4ec3-a653-dcdc436822ba",
-          "nickname": "시간시간 열매를 먹은 신동",
-          "element": "택시서비스",
-          "power": 480,
-          "rating": 983
-        }
-      ]
-    },
-    {
       "user_id": "36d2637c-f227-46b7-a278-a46b5a3b117e",
       "total_rating": 3103,
       "characters": [
@@ -971,6 +944,33 @@
           "element": "주차솔루션",
           "power": 480,
           "rating": 954
+        }
+      ]
+    },
+    {
+      "user_id": "52690cfb-7109-43b6-ba19-35b867933204",
+      "total_rating": 3089,
+      "characters": [
+        {
+          "id": "c0468558-9881-4bb9-94cc-23cc0a1f3bec",
+          "nickname": "노익장",
+          "element": "데이터분석",
+          "power": 480,
+          "rating": 1036
+        },
+        {
+          "id": "9367f949-e871-4fe1-bc1a-e61cef855d9a",
+          "nickname": "트렌디 너드 디벨로퍼",
+          "element": "내비게이션",
+          "power": 420,
+          "rating": 1085
+        },
+        {
+          "id": "2e31b2b6-6e89-4ec3-a653-dcdc436822ba",
+          "nickname": "시간시간 열매를 먹은 신동",
+          "element": "택시서비스",
+          "power": 480,
+          "rating": 968
         }
       ]
     },
@@ -1245,6 +1245,33 @@
       ]
     },
     {
+      "user_id": "3ab5d166-e053-4443-b9be-1090e6fdcba7",
+      "total_rating": 3005,
+      "characters": [
+        {
+          "id": "7b01e652-da62-43bb-a1b4-654ca2a92790",
+          "nickname": "우디1",
+          "element": "데이터분석",
+          "power": 380,
+          "rating": 1076
+        },
+        {
+          "id": "244617d7-0d1e-49d0-9bc4-6239d4e26461",
+          "nickname": "우디2",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 955
+        },
+        {
+          "id": "dbb9a7b1-84a2-4e76-9c51-e10a9f7b34f3",
+          "nickname": "우디3",
+          "element": "택시서비스",
+          "power": 380,
+          "rating": 974
+        }
+      ]
+    },
+    {
       "user_id": "9e0dc0eb-0924-46da-ab99-3a59fdf82370",
       "total_rating": 3000,
       "characters": [
@@ -1295,33 +1322,6 @@
           "element": "주차솔루션",
           "power": 480,
           "rating": 1000
-        }
-      ]
-    },
-    {
-      "user_id": "3ab5d166-e053-4443-b9be-1090e6fdcba7",
-      "total_rating": 2990,
-      "characters": [
-        {
-          "id": "7b01e652-da62-43bb-a1b4-654ca2a92790",
-          "nickname": "우디1",
-          "element": "데이터분석",
-          "power": 380,
-          "rating": 1061
-        },
-        {
-          "id": "244617d7-0d1e-49d0-9bc4-6239d4e26461",
-          "nickname": "우디2",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 955
-        },
-        {
-          "id": "dbb9a7b1-84a2-4e76-9c51-e10a9f7b34f3",
-          "nickname": "우디3",
-          "element": "택시서비스",
-          "power": 380,
-          "rating": 974
         }
       ]
     },
